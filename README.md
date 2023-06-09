@@ -1,3 +1,7 @@
+# 🎯 About Me:
+A fresh sophomore exploring the wonders of Mathematics and CS. 
+
+
 # 📊 GitHub Stats:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=TMTien3004&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMTien3004&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
