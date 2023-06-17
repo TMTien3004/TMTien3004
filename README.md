@@ -1,11 +1,10 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Tien.<br>
-        Just a simple sophomore student with an interest in Pure Mathematics and Computer Science.<br>
-        Currently dabbling around with AI/ML.<br>
+    <br>
+        I'm just a simple sophomore student with an interest in Pure Mathematics and Computer Science.<br>
+        Currently dabbling around with A.I.<br>
     </i><br>
     <a href="https://leetcode.com/TMTien3004">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat&logo=LeetCode" alt="LeetCode">
@@ -20,7 +19,7 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=0085d3)](https://github.com/TMTien3004)
 
 
-### ML
+### AI
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=6CD5FF)](https://github.com/TMTien3004)
 
 
