@@ -19,11 +19,11 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=0085d3)](https://github.com/TMTien3004)
 
 
-### AI
+### Library
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=6CD5FF)](https://github.com/TMTien3004)
 
 
-### IDE
+### Dev Tools
 [![VSC](https://img.shields.io/badge/VSC-black?style=for-the-badge&logo=visualstudiocode&logoColor=62D2FF)](https://github.com/TMTien3004)
 [![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea)](https://github.com/TMTien3004)
 [![Jupyter NoteBook](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter&logoColor=f57c00)](https://github.com/TMTien3004)
