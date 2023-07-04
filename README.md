@@ -13,19 +13,20 @@
 
 
 ### Languages
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=0085d3)](https://github.com/TMTien3004)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=62D2FF)](https://github.com/TMTien3004)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=FFD43B)](https://github.com/TMTien3004)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/TMTien3004)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=0085d3)](https://github.com/TMTien3004)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=62D2FF)](https://github.com/TMTien3004)
 
 
 ### Library
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=6CD5FF)](https://github.com/TMTien3004)
+[![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv&logoColor=FF2A2A)](https://github.com/TMTien3004)
 
 
 ### Dev Tools
-[![VSC](https://img.shields.io/badge/VSC-black?style=for-the-badge&logo=visualstudiocode&logoColor=62D2FF)](https://github.com/TMTien3004)
-[![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea)](https://github.com/TMTien3004)
+[![VSC](https://img.shields.io/badge/VSC-black?style=for-the-badge&logo=visualstudiocode&logoColor=0085d3)](https://github.com/TMTien3004)
+[![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea&logoColor=FAFC58)](https://github.com/TMTien3004)
 [![Jupyter NoteBook](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter&logoColor=f57c00)](https://github.com/TMTien3004)
 
 <details>
