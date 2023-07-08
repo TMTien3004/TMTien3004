@@ -3,7 +3,7 @@
 <p align="center">
     <i>
     <br>
-        I'm just a simple sophomore student with an interest in Pure Mathematics and Computer Science.<br>
+        I'm just a simple rising sophomore student with an interest in Pure Mathematics and Computer Science.<br>
         Currently dabbling around with A.I.<br>
     </i><br>
     <a href="https://leetcode.com/TMTien3004">
