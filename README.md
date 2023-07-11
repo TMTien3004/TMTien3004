@@ -1,4 +1,4 @@
-<h1 align="center">Hi, everyone! <img src="https://github.com/TMTien3004" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, everyone! <img src="https://github.com/TMTien3004" width="28px"></h1>
 
 <p align="center">
     <i>
