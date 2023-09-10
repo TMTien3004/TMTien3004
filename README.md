@@ -15,6 +15,7 @@
 ### Languages
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=62D2FF)](https://github.com/TMTien3004)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=FFD43B)](https://github.com/TMTien3004)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=FFFF00)](https://github.com/TMTien3004)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=FFA736)](https://github.com/TMTien3004)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=62D2FF)](https://github.com/TMTien3004)
 
