@@ -3,8 +3,8 @@
 <p align="center">
     <i>
     <br>
-        I'm just a simple sophomore student with an interest in Computational Mathematics and Computer Science.<br>
-        Currently dabbling around with A.I/Data Science<br>
+        I'm just a simple junior student with an interest in Computational Mathematics and Computer Science.<br>
+        Currently pursuing the path of Algorithm and AI<br>
     </i><br>
     <a href="https://leetcode.com/TMTien3004">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat&logo=LeetCode" alt="LeetCode">
