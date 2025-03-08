@@ -4,7 +4,7 @@
     <i>
     <br>
         I'm just a simple senior student majoring in Applied and Computational Mathematics & Computer Science.<br>
-        Currently pursuing the path of Algorithm, AI, and Hardware<br>
+        Currently pursuing the path of PhD with a reseach focus on: Numerical Analysis/Method, Inverse Problems, and Image Processing<br>
     </i><br>
     <a href="https://leetcode.com/TMTien3004">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat&logo=LeetCode" alt="LeetCode">
