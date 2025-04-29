@@ -3,8 +3,8 @@
 <p align="center">
     <i>
     <br>
-        I'm just a simple senior student majoring in Applied and Computational Mathematics & Computer Science.<br>
-        Currently pursuing the path of PhD with a reseach focus on: Numerical Analysis/Method, Inverse Problems, and Image Processing<br>
+        I'm just a simple junior student double majoring in Applied Mathematics & Computer Science.<br>
+        Currently pursuing the path of PhD with a research focus on: Numerical Linear Algebra and Matrix Theory.<br>
     </i><br>
     <a href="https://leetcode.com/TMTien3004">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat&logo=LeetCode" alt="LeetCode">
